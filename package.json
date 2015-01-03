@@ -2,9 +2,9 @@
   "name": "summerfruit-theme",
   "theme": "syntax",
   "version": "1.1.0",
-  "description": "A conversion of Adrian Demleitner' Textmate Summerfruit theme (ported from a vim theme).",
+  "description": "A port of Adrian Demleitner' Textmate Summerfruit theme (ported from a vim theme).",
   "repository": "https://github.com/carlo/summerfruit-theme",
-  "license": "MIT",
+  "license": "WTFPL",
   "engines": {
     "atom": ">0.50.0"
   },
