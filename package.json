@@ -1,7 +1,7 @@
 {
   "name": "summerfruit-theme",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A conversion of Adrian Demleitner' Textmate Summerfruit theme (ported from a vim theme).",
   "repository": "https://github.com/carlo/summerfruit-theme",
   "license": "MIT",
