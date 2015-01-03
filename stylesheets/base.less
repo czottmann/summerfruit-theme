@@ -1,0 +1,100 @@
+@import "syntax-variables";
+
+.editor {
+  background-color: @syntax-background-color;
+  color: @syntax-text-color;
+}
+
+.editor .gutter {
+  background-color: @syntax-gutter-background-color;
+  color: @syntax-gutter-text-color;
+  margin-right: 5px;
+}
+
+.editor .gutter .line-number.cursor-line {
+  background-color: @syntax-gutter-background-color-selected;
+  color: @syntax-gutter-text-color-selected;
+}
+
+.editor .gutter .line-number.cursor-line-no-selection {
+  color: @syntax-gutter-text-color-selected;
+}
+
+.editor .wrap-guide {
+  color: @syntax-wrap-guide-color;
+}
+
+.editor .indent-guide {
+  color: @syntax-indent-guide-color;
+}
+
+.editor .invisible-character {
+  color: @syntax-invisible-character-color;
+}
+
+.editor .search-results .marker .region {
+  background-color: transparent;
+  border: @syntax-result-marker-color;
+}
+
+.editor .search-results .marker.current-result .region {
+  border: @syntax-result-marker-color-selected;
+}
+
+.editor.is-focused .cursor {
+  border-color: @syntax-cursor-color;
+}
+
+.editor.is-focused .selection .region {
+  background-color: @syntax-selection-color;
+}
+
+.editor.is-focused .line-number.cursor-line-no-selection, .editor.is-focused .line.cursor-line {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.comment {
+  color: #22a21f;
+  background-color: #dbf3cd;
+}
+
+.constant {
+  color: #1586d2;
+}
+
+.entity {
+  color: #181818;
+}
+
+.keyword {
+  color: #fb6620;
+}
+
+.storage {
+  color: #fc1785;
+}
+
+.string {
+  color: #1586d2;
+}
+
+.support {
+  color: #e20072;
+}
+
+.variable {
+  color: #fc1785;
+}
+
+.invalid {
+  color: #F8F8F8;
+  background-color: #d40915;
+}
+
+.entity.name.tag {
+  color: #F92672;
+}
+
+.entity.other.attribute-name {
+  color: #A6E22E;
+}

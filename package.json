@@ -1,0 +1,21 @@
+{
+  "name": "summerfruit-theme",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A conversion of Adrian Demleitner' Textmate Summerfruit theme (ported from a vim theme).",
+  "repository": "https://github.com/carlo/summerfruit-theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "contributors": [
+    {
+      "name": "Carlo Zottmann",
+      "email": "carlo@zottmann.org"
+    },
+    {
+      "name": "Adrian Demleitner (ST2 theme port)",
+      "email": "y@thgie.ch"
+    }
+  ]
+}
