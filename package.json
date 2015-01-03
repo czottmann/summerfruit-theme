@@ -2,7 +2,7 @@
   "name": "summerfruit-theme",
   "theme": "syntax",
   "version": "1.2.0",
-  "description": "A port of Adrian Demleitner' Textmate Summerfruit theme (ported from a vim theme).",
+  "description": "A happy-happy-joy-joy light syntax theme. A port of Adrian Demleitner' Textmate Summerfruit theme (ported from a vim theme).",
   "repository": "https://github.com/carlo/summerfruit-theme",
   "license": "WTFPL",
   "engines": {
