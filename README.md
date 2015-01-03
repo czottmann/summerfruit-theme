@@ -1,9 +1,9 @@
 # Summerfruit syntax theme
 
-A conversion of [Adrian Demleitner' Textmate Summerfruit theme](https://github.com/thgie/Summerfruit),
+A port of [Adrian Demleitner' Textmate Summerfruit theme](https://github.com/thgie/Summerfruit),
 which itself is a port of [an old vim theme](http://www.vim.org/scripts/script.php?script_id=1872).
 
-The theme was created by converting it from the Textmate theme, then _slightly_
+This port was created by converting it from the Textmate theme, then _slightly_
 adjusting gutter margin & color as well as the invisibles to my liking.
 
 
