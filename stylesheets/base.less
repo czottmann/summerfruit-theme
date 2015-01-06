@@ -49,13 +49,15 @@
   background-color: @syntax-selection-color;
 }
 
-.editor.is-focused .line-number.cursor-line-no-selection, .editor.is-focused .line.cursor-line {
+.editor.is-focused .line-number.cursor-line-no-selection,
+.editor.is-focused .line.cursor-line {
   background-color: rgba(255, 255, 255, 0.05);
 }
 
 .comment {
-  color: #22a21f;
   background-color: #dbf3cd;
+  color: #22a21f;
+  opacity: 0.8;
 }
 
 .constant {
@@ -87,14 +89,15 @@
 }
 
 .invalid {
-  color: #F8F8F8;
   background-color: #d40915;
+  color: #f8f8f8;
+  opacity: 0.8;
 }
 
 .entity.name.tag {
-  color: #F92672;
+  color: #f92672;
 }
 
 .entity.other.attribute-name {
-  color: #A6E22E;
+  color: #a6e22e;
 }
