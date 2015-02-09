@@ -1,3 +1,8 @@
+## 1.5.0
+
+* Replaced deprecated CSS selectors.
+
+
 ## 1.4.0
 
 * [FIX] Made text selection visible in comment blocks.
