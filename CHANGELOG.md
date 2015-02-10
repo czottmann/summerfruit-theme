@@ -1,6 +1,13 @@
+## 1.6.0
+
+* [FIX] Fixed colors for invisibles, indent guides and selection when Shadow DOM
+  is enabled.
+* [CHG] Increased brightness of selections.
+
+
 ## 1.5.0
 
-* Replaced deprecated CSS selectors.
+* [CHG] Replaced deprecated CSS selectors.
 
 
 ## 1.4.0
