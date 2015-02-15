@@ -1,3 +1,8 @@
+## 1.7.0
+
+* [CHG] Renamed internal folder `stylesheets/` to `styles/`.
+
+
 ## 1.6.0
 
 * [FIX] Fixed colors for invisibles, indent guides and selection when Shadow DOM
