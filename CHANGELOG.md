@@ -1,3 +1,8 @@
+## 1.9.0
+
+* [FIX] Fixed deprecation warnings by rewriting all selectors.
+
+
 ## 1.8.0
 
 * [FIX] Fixed gutter margin.
